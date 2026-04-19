@@ -11,6 +11,8 @@ MAPIC formulates the **core-to-IO mapping problem** as a sequence prediction tas
 [**Reinforcement Learning for Testtime Optimization in the Network-on-Chip based Systems**](https://doi.org/10.1109/ISQED65160.2025.11014406) - 
 *ISQED 2025*
 
+Authors: Anantha Kamath, Aditya Handur-Kulkarni, Himanshu Singh and Prof. Kanchan Manna
+
 ---
 
 ## Key Contributions
