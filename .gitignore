@@ -1,0 +1,76 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual Environments
+# =========================
+.env
+.venv
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PyTorch / Model Files
+# =========================
+*.pt
+*.pth
+*.ckpt
+
+# =========================
+# Logs & Outputs
+# =========================
+logs/
+*.log
+outputs/
+results/
+experiments/
+
+# =========================
+# Data (IMPORTANT)
+# =========================
+data/raw/
+data/generated/
+data/processed/
+*.csv
+*.json
+
+# If you want to keep small config/sample data:
+!data/README.md
+!data/sample/
+
+# =========================
+# Checkpoints & Training Artifacts
+# =========================
+checkpoints/
+*.tar
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.swp
+*.bak

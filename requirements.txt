@@ -1,0 +1,5 @@
+torch>=1.13.1          # PyTorch
+torchvision>=0.14.1    # Include if you use TorchVision models or datasets
+numpy>=1.18.1          # Array operations
+tqdm>=4.42.1           # Progress bars
+networkx>=2.4          # Graph processing
